@@ -12,6 +12,7 @@ Clean and reusable algorithm templates with curated LeetCode problem solutions.
 2025/12/08 — Reviewed Knapsack DP and built several Knapsack DP templates.   
 2025/12/09 — Built exact clonotype and Union-Find–based clonal family algorithms, and completed full modular integration with runnable demos.  
 2025/12/11 — Implemented genomic interval merge and interval overlap modules for ATAC-seq, and established the foundation for peak cleaning, annotation, and feature mapping.  
+2025/12/15 — Add union-peak template to ATAC folder.  
 
 
 
