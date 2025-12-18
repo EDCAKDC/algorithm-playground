@@ -14,6 +14,7 @@ Clean and reusable algorithm templates with curated LeetCode problem solutions.
 2025/12/11 — Implemented genomic interval merge and interval overlap modules for ATAC-seq, and established the foundation for peak cleaning, annotation, and feature mapping.  
 2025/12/15 — Add union-peak template to ATAC folder.  
 2025/12/16 — Add peak_annotation template to ATAC folder.  
+2025/12/17 — Add motif_scanner template to ATAC folder.  
 
 
 
