@@ -11,10 +11,11 @@ graph = {
     1: [0, 2],
     2: [0, 1],
     3: [4, 5],
-    4: [3, 5]
+    4: [3, 5]，
     5: [3, 4]
 }
 
 if __name__ == '__main__':
     for node. neighbors in graph.items():
         print(f'Cell {node} -> Neighbors {neighbors}')
+
