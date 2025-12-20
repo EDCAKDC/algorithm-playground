@@ -1,3 +1,6 @@
+from bfs import bfs
+
+
 def connected_components(graph):
     visited = set()
     components = []
@@ -8,3 +11,4 @@ def connected_components(graph):
             components.append(comp)
             visited |= comp
     return components
+
