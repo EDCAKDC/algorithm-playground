@@ -16,7 +16,7 @@ Clean and reusable algorithm templates with curated LeetCode problem solutions.
 2025/12/16 — Add peak_annotation template to ATAC folder.  
 2025/12/17 — Add motif_scanner template to ATAC folder.  
 2025/12/18 — Started graph-based single-cell algorithms: constructed toy kNN graph, implemented BFS traversal, and connected components for clustering.  
-2025/12/20 — Implemented graph-based label propagation on a toy single-cell kNN graph using multi-source BFS; observed stable cluster-level annotation under non-conflicting seeds and order-dependent failures with conflicting seeds or bridge nodes.
+2025/12/20 — Implemented graph-based label propagation on a toy single-cell kNN graph using multi-source BFS; observed stable cluster-level annotation under non-conflicting seeds and order-dependent failures with conflicting seeds or bridge nodes.  
 2025/12/21 — Add label_propagation_vote template to ATAC folder.  
 
 
